@@ -1,2 +1,5 @@
 python3 -m venv python-env
 source python-env/bin/activate
+cd python-env/
+pip install -r requirements.txt
+
